@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <root nodeRef="r:d7d0de68-9a06-4bd0-a39d-cace4397df6c(scenario_4)/6096292100217134613">
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="9" startPosition="42" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="10" startPosition="0" endLine="11" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="11" startPosition="51" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="12" startPosition="0" endLine="13" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="13" startPosition="55" endLine="14" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="15" startPosition="22" endLine="16" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="16" startPosition="28" endLine="17" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="17" startPosition="28" endLine="18" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="20" startPosition="25" endLine="21" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="22" startPosition="5" endLine="23" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="23" startPosition="28" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="24" startPosition="0" endLine="25" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="25" startPosition="14" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="26" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="27" startPosition="0" endLine="28" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="28" startPosition="36" endLine="29" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="29" startPosition="17" endLine="30" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="30" startPosition="40" endLine="31" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="31" startPosition="39" endLine="32" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="32" startPosition="28" endLine="33" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="33" startPosition="27" endLine="34" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="34" startPosition="32" endLine="35" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="35" startPosition="44" endLine="36" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="36" startPosition="28" endLine="37" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="37" startPosition="28" endLine="38" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="38" startPosition="32" endLine="39" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="39" startPosition="28" endLine="40" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="41" startPosition="16" endLine="42" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="42" startPosition="16" endLine="43" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="43" startPosition="28" endLine="44" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="44" startPosition="27" endLine="45" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="45" startPosition="28" endLine="46" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="46" startPosition="27" endLine="47" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="48" startPosition="5" endLine="49" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="49" startPosition="29" endLine="50" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="50" startPosition="39" endLine="51" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="51" startPosition="31" endLine="52" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="52" startPosition="27" endLine="53" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="53" startPosition="35" endLine="54" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="54" startPosition="44" endLine="55" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="55" startPosition="31" endLine="56" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="56" startPosition="28" endLine="57" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="57" startPosition="35" endLine="58" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="58" startPosition="28" endLine="59" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="60" startPosition="16" endLine="61" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="61" startPosition="16" endLine="62" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="62" startPosition="28" endLine="63" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="63" startPosition="27" endLine="64" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="64" startPosition="28" endLine="65" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="65" startPosition="27" endLine="66" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="67" startPosition="5" endLine="68" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="68" startPosition="29" endLine="69" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="69" startPosition="39" endLine="70" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="70" startPosition="31" endLine="71" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="71" startPosition="27" endLine="72" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="72" startPosition="35" endLine="73" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="73" startPosition="44" endLine="74" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="74" startPosition="31" endLine="75" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="75" startPosition="28" endLine="76" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="76" startPosition="35" endLine="77" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="77" startPosition="28" endLine="78" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="79" startPosition="16" endLine="80" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="80" startPosition="16" endLine="81" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="81" startPosition="28" endLine="82" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="82" startPosition="27" endLine="83" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="83" startPosition="28" endLine="84" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="84" startPosition="27" endLine="85" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="86" startPosition="5" endLine="87" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="87" startPosition="29" endLine="88" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="88" startPosition="0" endLine="89" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="89" startPosition="27" endLine="90" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="90" startPosition="0" endLine="91" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="91" startPosition="46" endLine="92" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="92" startPosition="32" endLine="93" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="93" startPosition="29" endLine="94" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="94" startPosition="46" endLine="95" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="95" startPosition="35" endLine="96" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="96" startPosition="29" endLine="97" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="97" startPosition="46" endLine="98" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="98" startPosition="35" endLine="99" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="99" startPosition="29" endLine="100" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="100" startPosition="0" endLine="101" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="101" startPosition="27" endLine="102" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="102" startPosition="0" endLine="103" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="103" startPosition="39" endLine="104" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="104" startPosition="14" endLine="105" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="105" startPosition="0" endLine="106" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="106" startPosition="68" endLine="107" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="107" startPosition="46" endLine="108" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="108" startPosition="33" endLine="109" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="109" startPosition="50" endLine="110" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="110" startPosition="30" endLine="111" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="111" startPosition="29" endLine="112" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="112" startPosition="27" endLine="113" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="113" startPosition="33" endLine="114" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="114" startPosition="38" endLine="115" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="115" startPosition="46" endLine="116" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="116" startPosition="32" endLine="117" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="117" startPosition="38" endLine="118" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="118" startPosition="34" endLine="119" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="119" startPosition="26" endLine="120" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="120" startPosition="26" endLine="121" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="121" startPosition="29" endLine="122" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="122" startPosition="27" endLine="123" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="123" startPosition="33" endLine="124" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="124" startPosition="38" endLine="125" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="125" startPosition="46" endLine="126" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="126" startPosition="35" endLine="127" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="127" startPosition="38" endLine="128" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="128" startPosition="34" endLine="129" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="129" startPosition="26" endLine="130" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="130" startPosition="26" endLine="131" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="131" startPosition="29" endLine="132" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="132" startPosition="27" endLine="133" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="133" startPosition="46" endLine="134" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="134" startPosition="54" endLine="135" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="135" startPosition="50" endLine="136" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="136" startPosition="30" endLine="137" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="137" startPosition="29" endLine="138" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="138" startPosition="27" endLine="139" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="139" startPosition="54" endLine="140" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="140" startPosition="38" endLine="141" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="141" startPosition="46" endLine="142" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="142" startPosition="35" endLine="143" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="143" startPosition="38" endLine="144" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="144" startPosition="35" endLine="145" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="145" startPosition="26" endLine="146" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="146" startPosition="26" endLine="147" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="147" startPosition="29" endLine="148" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="148" startPosition="27" endLine="149" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="149" startPosition="54" endLine="150" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="150" startPosition="38" endLine="151" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="151" startPosition="46" endLine="152" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="152" startPosition="32" endLine="153" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="153" startPosition="38" endLine="154" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="154" startPosition="34" endLine="155" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="155" startPosition="26" endLine="156" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="156" startPosition="26" endLine="157" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="157" startPosition="29" endLine="158" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="158" startPosition="27" endLine="159" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="159" startPosition="46" endLine="160" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="160" startPosition="55" endLine="161" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="161" startPosition="50" endLine="162" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="162" startPosition="30" endLine="163" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="163" startPosition="29" endLine="164" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="164" startPosition="27" endLine="165" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="165" startPosition="46" endLine="166" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="166" startPosition="54" endLine="167" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="167" startPosition="50" endLine="168" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="168" startPosition="30" endLine="169" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="169" startPosition="29" endLine="170" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="170" startPosition="27" endLine="171" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="171" startPosition="54" endLine="172" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="172" startPosition="38" endLine="173" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="173" startPosition="46" endLine="174" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="174" startPosition="32" endLine="175" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="175" startPosition="38" endLine="176" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="176" startPosition="35" endLine="177" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="177" startPosition="26" endLine="178" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="178" startPosition="26" endLine="179" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="179" startPosition="29" endLine="180" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="180" startPosition="27" endLine="181" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="181" startPosition="54" endLine="182" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="182" startPosition="38" endLine="183" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="183" startPosition="46" endLine="184" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="184" startPosition="35" endLine="185" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="185" startPosition="38" endLine="186" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="186" startPosition="34" endLine="187" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="187" startPosition="26" endLine="188" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="188" startPosition="26" endLine="189" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="189" startPosition="29" endLine="190" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="190" startPosition="27" endLine="191" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="191" startPosition="46" endLine="192" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="192" startPosition="55" endLine="193" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="193" startPosition="50" endLine="194" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="194" startPosition="30" endLine="195" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="195" startPosition="29" endLine="196" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="196" startPosition="27" endLine="197" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="197" startPosition="0" endLine="198" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="199" startPosition="5" endLine="200" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="201" startPosition="7" endLine="202" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="202" startPosition="37" endLine="203" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="203" startPosition="55" endLine="204" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="204" startPosition="30" endLine="205" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="205" startPosition="59" endLine="206" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="206" startPosition="58" endLine="207" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="207" startPosition="33" endLine="208" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="208" startPosition="0" endLine="209" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="209" startPosition="49" endLine="210" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="210" startPosition="84" endLine="211" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="211" startPosition="39" endLine="212" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="212" startPosition="43" endLine="213" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="213" startPosition="39" endLine="214" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="214" startPosition="34" endLine="215" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="215" startPosition="0" endLine="216" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="216" startPosition="50" endLine="217" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="217" startPosition="43" endLine="218" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="218" startPosition="46" endLine="219" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="219" startPosition="30" endLine="220" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="221" startPosition="7" endLine="222" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="224" startPosition="5" endLine="225" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="226" startPosition="7" endLine="227" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="227" startPosition="37" endLine="228" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="228" startPosition="55" endLine="229" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="229" startPosition="30" endLine="230" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="230" startPosition="59" endLine="231" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="231" startPosition="59" endLine="232" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="232" startPosition="33" endLine="233" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="233" startPosition="0" endLine="234" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="234" startPosition="49" endLine="235" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="235" startPosition="84" endLine="236" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="236" startPosition="39" endLine="237" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="237" startPosition="43" endLine="238" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="238" startPosition="38" endLine="239" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="239" startPosition="34" endLine="240" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="240" startPosition="0" endLine="241" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="241" startPosition="50" endLine="242" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="242" startPosition="43" endLine="243" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="243" startPosition="46" endLine="244" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="244" startPosition="30" endLine="245" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="246" startPosition="7" endLine="247" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="249" startPosition="5" endLine="250" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="251" startPosition="7" endLine="252" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="252" startPosition="37" endLine="253" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="253" startPosition="55" endLine="254" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="254" startPosition="30" endLine="255" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="255" startPosition="59" endLine="256" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="256" startPosition="58" endLine="257" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="257" startPosition="33" endLine="258" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="258" startPosition="0" endLine="259" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="259" startPosition="49" endLine="260" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="260" startPosition="84" endLine="261" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="261" startPosition="39" endLine="262" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="262" startPosition="43" endLine="263" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="263" startPosition="39" endLine="264" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="264" startPosition="34" endLine="265" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="265" startPosition="0" endLine="266" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="266" startPosition="50" endLine="267" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="267" startPosition="43" endLine="268" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="268" startPosition="46" endLine="269" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="269" startPosition="30" endLine="270" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="271" startPosition="7" endLine="272" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="274" startPosition="5" endLine="275" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="276" startPosition="7" endLine="277" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="277" startPosition="37" endLine="278" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="278" startPosition="55" endLine="279" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="279" startPosition="30" endLine="280" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="280" startPosition="59" endLine="281" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="281" startPosition="59" endLine="282" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="282" startPosition="33" endLine="283" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="283" startPosition="0" endLine="284" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="284" startPosition="49" endLine="285" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="285" startPosition="84" endLine="286" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="286" startPosition="39" endLine="287" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="287" startPosition="43" endLine="288" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="288" startPosition="38" endLine="289" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="289" startPosition="34" endLine="290" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="290" startPosition="0" endLine="291" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="291" startPosition="50" endLine="292" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="292" startPosition="43" endLine="293" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="293" startPosition="46" endLine="294" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="294" startPosition="30" endLine="295" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="296" startPosition="7" endLine="297" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="299" startPosition="5" endLine="300" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="301" startPosition="7" endLine="302" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="302" startPosition="37" endLine="303" endPosition="55" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="303" startPosition="55" endLine="304" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="304" startPosition="30" endLine="305" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="305" startPosition="59" endLine="306" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="306" startPosition="58" endLine="307" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="307" startPosition="33" endLine="308" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="308" startPosition="0" endLine="309" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="309" startPosition="49" endLine="310" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="310" startPosition="84" endLine="311" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="311" startPosition="39" endLine="312" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="312" startPosition="43" endLine="313" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="313" startPosition="39" endLine="314" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="314" startPosition="34" endLine="315" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="315" startPosition="0" endLine="316" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="316" startPosition="50" endLine="317" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="317" startPosition="43" endLine="318" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="318" startPosition="46" endLine="319" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="319" startPosition="30" endLine="320" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="321" startPosition="7" endLine="322" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="323" startPosition="5" endLine="324" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="324" startPosition="0" endLine="325" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="326" startPosition="22" endLine="327" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="327" startPosition="36" endLine="328" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="328" startPosition="81" endLine="329" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="329" startPosition="27" endLine="330" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="330" startPosition="28" endLine="331" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="331" startPosition="27" endLine="332" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="332" startPosition="28" endLine="333" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="333" startPosition="27" endLine="334" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="334" startPosition="28" endLine="335" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="335" startPosition="27" endLine="336" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="336" startPosition="28" endLine="337" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="337" startPosition="29" endLine="338" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="338" startPosition="27" endLine="339" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="340" startPosition="5" endLine="341" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="341" startPosition="0" endLine="342" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="342" startPosition="47" endLine="343" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="344" startPosition="22" endLine="345" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="348" startPosition="7" endLine="349" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="349" startPosition="36" endLine="350" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="350" startPosition="18" endLine="351" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="352" startPosition="27" endLine="353" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="353" startPosition="43" endLine="354" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="354" startPosition="44" endLine="355" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="355" startPosition="39" endLine="356" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="359" startPosition="7" endLine="360" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="360" startPosition="37" endLine="361" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="361" startPosition="18" endLine="362" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="363" startPosition="27" endLine="364" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="364" startPosition="64" endLine="365" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="365" startPosition="44" endLine="366" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="366" startPosition="60" endLine="367" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="370" startPosition="7" endLine="371" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="371" startPosition="37" endLine="372" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="372" startPosition="18" endLine="373" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="374" startPosition="27" endLine="375" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="375" startPosition="65" endLine="376" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="376" startPosition="44" endLine="377" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="377" startPosition="61" endLine="378" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="381" startPosition="7" endLine="382" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="382" startPosition="37" endLine="383" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="383" startPosition="18" endLine="384" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="385" startPosition="27" endLine="386" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="386" startPosition="64" endLine="387" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="387" startPosition="44" endLine="388" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="388" startPosition="60" endLine="389" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="392" startPosition="7" endLine="393" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="393" startPosition="37" endLine="394" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="394" startPosition="18" endLine="395" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="396" startPosition="27" endLine="397" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="397" startPosition="65" endLine="398" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="398" startPosition="44" endLine="399" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="399" startPosition="61" endLine="400" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="403" startPosition="5" endLine="404" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="404" startPosition="28" endLine="405" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="405" startPosition="0" endLine="406" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="406" startPosition="39" endLine="407" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="407" startPosition="47" endLine="408" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="19" startPosition="5" endLine="22" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="90" startPosition="0" endLine="93" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="93" startPosition="29" endLine="96" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="96" startPosition="29" endLine="99" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="343" startPosition="0" endLine="346" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="14" startPosition="32" endLine="19" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="209" startPosition="49" endLine="214" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="234" startPosition="49" endLine="239" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="259" startPosition="49" endLine="264" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="284" startPosition="49" endLine="289" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="309" startPosition="49" endLine="314" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="158" startPosition="27" endLine="164" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="190" startPosition="27" endLine="196" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="351" startPosition="0" endLine="357" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="362" startPosition="0" endLine="368" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="373" startPosition="0" endLine="379" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="384" startPosition="0" endLine="390" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="395" startPosition="0" endLine="401" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="40" startPosition="27" endLine="48" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="59" startPosition="27" endLine="67" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="78" startPosition="27" endLine="86" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="111" startPosition="29" endLine="121" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="121" startPosition="29" endLine="131" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="137" startPosition="29" endLine="147" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="147" startPosition="29" endLine="157" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="169" startPosition="29" endLine="179" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="179" startPosition="29" endLine="189" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="347" startPosition="25" endLine="358" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="358" startPosition="7" endLine="369" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="369" startPosition="7" endLine="380" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="380" startPosition="7" endLine="391" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="391" startPosition="7" endLine="402" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="326" startPosition="22" endLine="339" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="325" startPosition="32" endLine="340" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="30" startPosition="40" endLine="49" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="49" startPosition="29" endLine="68" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="68" startPosition="29" endLine="87" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="200" startPosition="36" endLine="221" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="225" startPosition="57" endLine="246" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="250" startPosition="58" endLine="271" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="275" startPosition="57" endLine="296" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="300" startPosition="58" endLine="321" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="198" startPosition="55" endLine="223" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="223" startPosition="5" endLine="248" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="248" startPosition="5" endLine="273" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="273" startPosition="5" endLine="298" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="298" startPosition="5" endLine="323" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="106" startPosition="68" endLine="132" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="132" startPosition="27" endLine="158" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="164" startPosition="27" endLine="190" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="346" startPosition="5" endLine="403" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="9" startPosition="0" endLine="410" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="20" startPosition="25" endLine="21" endPosition="16" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="344" startPosition="22" endLine="345" endPosition="64" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="15" startPosition="22" endLine="18" endPosition="28" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="90" startPosition="0" endLine="93" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="93" startPosition="29" endLine="96" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="96" startPosition="29" endLine="99" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="352" startPosition="27" endLine="356" endPosition="35">
+      <varInfo nodeId="6096292100217134613" varName="initialState" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="363" startPosition="27" endLine="367" endPosition="35">
+      <varInfo nodeId="6096292100217134613" varName="initialState" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="374" startPosition="27" endLine="378" endPosition="35">
+      <varInfo nodeId="6096292100217134613" varName="initialState" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="385" startPosition="27" endLine="389" endPosition="35">
+      <varInfo nodeId="6096292100217134613" varName="initialState" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="396" startPosition="27" endLine="400" endPosition="35">
+      <varInfo nodeId="6096292100217134613" varName="initialState" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="209" startPosition="49" endLine="214" endPosition="34" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="234" startPosition="49" endLine="239" endPosition="34" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="259" startPosition="49" endLine="264" endPosition="34" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="284" startPosition="49" endLine="289" endPosition="34" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="309" startPosition="49" endLine="314" endPosition="34" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="41" startPosition="16" endLine="47" endPosition="16" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="60" startPosition="16" endLine="66" endPosition="16" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="79" startPosition="16" endLine="85" endPosition="16" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="158" startPosition="27" endLine="164" endPosition="27" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="190" startPosition="27" endLine="196" endPosition="27" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="348" startPosition="7" endLine="357" endPosition="9">
+      <varInfo nodeId="6096292100217134613" varName="firstDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="359" startPosition="7" endLine="368" endPosition="9">
+      <varInfo nodeId="6096292100217134613" varName="firstDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="370" startPosition="7" endLine="379" endPosition="9">
+      <varInfo nodeId="6096292100217134613" varName="firstDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="381" startPosition="7" endLine="390" endPosition="9">
+      <varInfo nodeId="6096292100217134613" varName="firstDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="392" startPosition="7" endLine="401" endPosition="9">
+      <varInfo nodeId="6096292100217134613" varName="firstDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="111" startPosition="29" endLine="121" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="121" startPosition="29" endLine="131" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="137" startPosition="29" endLine="147" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="147" startPosition="29" endLine="157" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="169" startPosition="29" endLine="179" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="179" startPosition="29" endLine="189" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="326" startPosition="22" endLine="339" endPosition="33" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="30" startPosition="40" endLine="49" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="49" startPosition="29" endLine="68" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="68" startPosition="29" endLine="87" endPosition="29" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="201" startPosition="7" endLine="220" endPosition="33">
+      <varInfo nodeId="6096292100217134613" varName="tmp" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="226" startPosition="7" endLine="245" endPosition="33">
+      <varInfo nodeId="6096292100217134613" varName="tmp" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="251" startPosition="7" endLine="270" endPosition="33">
+      <varInfo nodeId="6096292100217134613" varName="tmp" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="276" startPosition="7" endLine="295" endPosition="33">
+      <varInfo nodeId="6096292100217134613" varName="tmp" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="301" startPosition="7" endLine="320" endPosition="33">
+      <varInfo nodeId="6096292100217134613" varName="tmp" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="199" startPosition="5" endLine="222" endPosition="29">
+      <varInfo nodeId="6096292100217134613" varName="stateName" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="224" startPosition="5" endLine="247" endPosition="29">
+      <varInfo nodeId="6096292100217134613" varName="stateName" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="249" startPosition="5" endLine="272" endPosition="29">
+      <varInfo nodeId="6096292100217134613" varName="stateName" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="274" startPosition="5" endLine="297" endPosition="29">
+      <varInfo nodeId="6096292100217134613" varName="stateName" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="299" startPosition="5" endLine="322" endPosition="29">
+      <varInfo nodeId="6096292100217134613" varName="stateName" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="106" startPosition="68" endLine="132" endPosition="27" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="132" startPosition="27" endLine="158" endPosition="27" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="164" startPosition="27" endLine="190" endPosition="27" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="347" startPosition="25" endLine="402" endPosition="7" />
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="9" startPosition="42" endLine="408" endPosition="28">
+      <varInfo nodeId="6096292100217134613" varName="existKonami" />
+      <varInfo nodeId="6096292100217134613" varName="freqDefined" />
+    </scopeInfo>
+    <scopeInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="9" startPosition="0" endLine="410" endPosition="0">
+      <varInfo nodeId="6096292100217134613" varName="args" />
+    </scopeInfo>
+    <unitInfo nodeId="6096292100217134613" fileName="ArduinoBoardGenerator.java" startLine="6" startPosition="0" endLine="411" endPosition="0" unitName="scenario_4.ArduinoBoardGenerator" />
+  </root>
+</debugInfo>
+

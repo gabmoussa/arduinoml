@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Action_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.Action_BehaviorDescriptor" />
+  <unitInfo fileName="Actuator_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.Actuator_BehaviorDescriptor" />
+  <unitInfo fileName="ArduinoBoard_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="27" endPosition="0" unitName="NewLanguage.behavior.ArduinoBoard_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="NewLanguage.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="Button_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="NewLanguage.behavior.Button_BehaviorDescriptor" />
+  <unitInfo fileName="Buzzer_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="NewLanguage.behavior.Buzzer_BehaviorDescriptor" />
+  <unitInfo fileName="Condition_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.Condition_BehaviorDescriptor" />
+  <unitInfo fileName="Joystick_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="NewLanguage.behavior.Joystick_BehaviorDescriptor" />
+  <unitInfo fileName="Led_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="NewLanguage.behavior.Led_BehaviorDescriptor" />
+  <unitInfo fileName="State_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.State_BehaviorDescriptor" />
+  <unitInfo fileName="Transition_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.Transition_BehaviorDescriptor" />
+  <unitInfo fileName="konami_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.konami_BehaviorDescriptor" />
+  <unitInfo fileName="macro2_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.macro2_BehaviorDescriptor" />
+  <unitInfo fileName="macro_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="NewLanguage.behavior.macro_BehaviorDescriptor" />
+</debugInfo>
+

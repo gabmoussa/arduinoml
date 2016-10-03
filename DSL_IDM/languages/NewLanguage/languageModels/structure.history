@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="-1" />
+    </dependencies>
+    <rename id="nb7w.8136607136727170650" type="CHILD" from="state" to="action" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="0" />
+    </dependencies>
+    <rename id="nb7w.3334193164823626393" type="CHILD" from="actuator" to="actuatorName" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="1" />
+    </dependencies>
+    <rename id="nb7w.8766321956509385117" type="CHILD" from="led" to="ledA" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="2" />
+    </dependencies>
+    <rename id="nb7w.8766321956514334882" type="PROPERTY" from="xAxis" to="xAxisPin" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="3" />
+    </dependencies>
+    <rename id="nb7w.8766321956514820299" type="REFERENCE" from="nextState" to="nextStateRef" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="4" />
+    </dependencies>
+    <rename id="nb7w.8766321956514820299" type="REFERENCE" from="nextStateRef" to="nextState" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="nb7w" modelUID="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)" version="5" />
+    </dependencies>
+    <rename id="nb7w.8766321956509384993" type="CONCEPT" from="buzzer" to="Buzzer" />
+  </StructureModification>
+</history>
+

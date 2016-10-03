@@ -1,0 +1,54 @@
+#include <ArduinoML.h>
+
+arduino_ml::ArduinoBoard board;
+void setup(){
+	arduino_ml::Led* led_sc4 = new arduino_ml::Led("led_sc4",11);
+	arduino_ml::Buzzer* buzzer_sc4 = new arduino_ml::Buzzer("buzzer_sc4",10);
+	arduino_ml::Button* button_sc4 = new arduino_ml::Button("button_sc4",12);
+
+	board.add_actuator(led_sc4);
+	board.add_actuator(buzzer_sc4);
+	board.add_actuator(button_sc4);
+
+	arduino_ml::State* init_sc4 = new arduino_ml::State(false);
+	init_sc4->add_action(led_sc4,arduino_ml::LOW_STATE,0);
+	init_sc4->add_action(buzzer_sc4,arduino_ml::LOW_STATE,0);
+
+	arduino_ml::State* pressed_buzzer_on_led_off_sc4 = new arduino_ml::State(false);
+	pressed_buzzer_on_led_off_sc4->add_action(buzzer_sc4,arduino_ml::HIGH_STATE,0);
+	pressed_buzzer_on_led_off_sc4->add_action(led_sc4,arduino_ml::LOW_STATE,0);
+
+	arduino_ml::State* released_buzzer_on_led_off_sc4 = new arduino_ml::State(false);
+
+	arduino_ml::State* pressed_buzzer_off_led_on_sc4 = new arduino_ml::State(false);
+	pressed_buzzer_off_led_on_sc4->add_action(led_sc4,arduino_ml::HIGH_STATE,0);
+	pressed_buzzer_off_led_on_sc4->add_action(buzzer_sc4,arduino_ml::LOW_STATE,0);
+
+	arduino_ml::State* released_buzzer_off_led_on_sc4 = new arduino_ml::State(false);
+
+	arduino_ml::Transition* transition_a0 = new arduino_ml::Transition(pressed_buzzer_on_led_off_sc4);
+	transition_a0->add_condition(new arduino_ml::Condition(button_sc4, arduino_ml::HIGH_STATE));
+	init_sc4->add_transition(transition_a0);
+
+	arduino_ml::Transition* transition_a1 = new arduino_ml::Transition(released_buzzer_on_led_off_sc4);
+	transition_a1->add_condition(new arduino_ml::Condition(button_sc4, arduino_ml::LOW_STATE));
+	pressed_buzzer_on_led_off_sc4->add_transition(transition_a1);
+
+	arduino_ml::Transition* transition_a2 = new arduino_ml::Transition(pressed_buzzer_off_led_on_sc4);
+	transition_a2->add_condition(new arduino_ml::Condition(button_sc4, arduino_ml::HIGH_STATE));
+	released_buzzer_on_led_off_sc4->add_transition(transition_a2);
+
+	arduino_ml::Transition* transition_a3 = new arduino_ml::Transition(released_buzzer_off_led_on_sc4);
+	transition_a3->add_condition(new arduino_ml::Condition(button_sc4, arduino_ml::LOW_STATE));
+	pressed_buzzer_off_led_on_sc4->add_transition(transition_a3);
+
+	arduino_ml::Transition* transition_a4 = new arduino_ml::Transition(pressed_buzzer_on_led_off_sc4);
+	transition_a4->add_condition(new arduino_ml::Condition(button_sc4, arduino_ml::HIGH_STATE));
+	released_buzzer_off_led_on_sc4->add_transition(transition_a4);
+
+	board.init_pins();
+	board.init(init_sc4);
+}
+void loop(){
+	board.iteration();
+}

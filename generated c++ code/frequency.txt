@@ -1,0 +1,21 @@
+#include <ArduinoML.h>
+
+arduino_ml::ArduinoBoard board(0.5);
+void setup(){
+	arduino_ml::Led* led = new arduino_ml::Led("led",11);
+
+	board.add_actuator(led);
+
+	arduino_ml::State* initialFreq = new arduino_ml::State(true);
+	initialFreq->add_action(led,arduino_ml::LOW_STATE,200);
+	initialFreq->add_action(led,arduino_ml::HIGH_STATE,200);
+	initialFreq->add_action(led,arduino_ml::LOW_STATE,200);
+	initialFreq->add_action(led,arduino_ml::HIGH_STATE,200);
+
+
+	board.init_pins();
+	board.init(initialFreq);
+}
+void loop(){
+	board.iteration();
+}

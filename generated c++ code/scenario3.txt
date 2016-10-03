@@ -1,0 +1,42 @@
+#include <ArduinoML.h>
+
+arduino_ml::ArduinoBoard board;
+void setup(){
+	arduino_ml::Led* ledScenario3 = new arduino_ml::Led("ledScenario3",11);
+	arduino_ml::Button* buttonScenario3 = new arduino_ml::Button("buttonScenario3",12);
+
+	board.add_actuator(ledScenario3);
+	board.add_actuator(buttonScenario3);
+
+	arduino_ml::State* init_sce3 = new arduino_ml::State(false);
+	init_sce3->add_action(ledScenario3,arduino_ml::LOW_STATE,0);
+
+	arduino_ml::State* press_off_sce3 = new arduino_ml::State(false);
+
+	arduino_ml::State* released_on_sce3 = new arduino_ml::State(false);
+	released_on_sce3->add_action(ledScenario3,arduino_ml::HIGH_STATE,0);
+
+	arduino_ml::State* pressed_on_sce3 = new arduino_ml::State(false);
+
+	arduino_ml::Transition* transition_a0 = new arduino_ml::Transition(press_off_sce3);
+	transition_a0->add_condition(new arduino_ml::Condition(buttonScenario3, arduino_ml::HIGH_STATE));
+	init_sce3->add_transition(transition_a0);
+
+	arduino_ml::Transition* transition_a1 = new arduino_ml::Transition(released_on_sce3);
+	transition_a1->add_condition(new arduino_ml::Condition(buttonScenario3, arduino_ml::LOW_STATE));
+	press_off_sce3->add_transition(transition_a1);
+
+	arduino_ml::Transition* transition_a2 = new arduino_ml::Transition(pressed_on_sce3);
+	transition_a2->add_condition(new arduino_ml::Condition(buttonScenario3, arduino_ml::HIGH_STATE));
+	released_on_sce3->add_transition(transition_a2);
+
+	arduino_ml::Transition* transition_a3 = new arduino_ml::Transition(init_sce3);
+	transition_a3->add_condition(new arduino_ml::Condition(buttonScenario3, arduino_ml::LOW_STATE));
+	pressed_on_sce3->add_transition(transition_a3);
+
+	board.init_pins();
+	board.init(init_sce3);
+}
+void loop(){
+	board.iteration();
+}

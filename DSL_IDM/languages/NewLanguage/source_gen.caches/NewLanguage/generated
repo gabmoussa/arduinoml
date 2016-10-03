@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="bjs8o3a59qwpm6jqh2e6m8wrqvtjku1">
+  <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
+  <dep model="r:8545a428-be95-4e12-876d-dbe67da54169(NewLanguage.typesystem)" hash="71bz2cac8kuuicny4djnzpdz3in6xug" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
+  <dep model="r:fdcc1ee8-c4cd-4e3b-a09b-1a2ec4ce1e9c(NewLanguage.editor)" hash="adgz5xky5ykbr2wa5cbg3a7yrsts5y2" />
+  <common dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
+    <dep model="r:8545a428-be95-4e12-876d-dbe67da54169(NewLanguage.typesystem)" />
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:fdcc1ee8-c4cd-4e3b-a09b-1a2ec4ce1e9c(NewLanguage.editor)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+

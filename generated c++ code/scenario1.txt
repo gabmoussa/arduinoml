@@ -1,0 +1,34 @@
+#include <ArduinoML.h>
+
+arduino_ml::ArduinoBoard board(0.4);
+void setup(){
+	arduino_ml::Led* ledScenario1 = new arduino_ml::Led("ledScenario1",11);
+	arduino_ml::Buzzer* buzzerScenario1 = new arduino_ml::Buzzer("buzzerScenario1",10);
+	arduino_ml::Button* buttonScenario1 = new arduino_ml::Button("buttonScenario1",12);
+
+	board.add_actuator(ledScenario1);
+	board.add_actuator(buzzerScenario1);
+	board.add_actuator(buttonScenario1);
+
+	arduino_ml::State* initScenario1 = new arduino_ml::State(false);
+	initScenario1->add_action(ledScenario1,arduino_ml::LOW_STATE,0);
+	initScenario1->add_action(buzzerScenario1,arduino_ml::LOW_STATE,0);
+
+	arduino_ml::State* pressedScenario1 = new arduino_ml::State(false);
+	pressedScenario1->add_action(ledScenario1,arduino_ml::HIGH_STATE,0);
+	pressedScenario1->add_action(buzzerScenario1,arduino_ml::HIGH_STATE,0);
+
+	arduino_ml::Transition* transition_a0 = new arduino_ml::Transition(pressedScenario1);
+	transition_a0->add_condition(new arduino_ml::Condition(buttonScenario1, arduino_ml::HIGH_STATE));
+	initScenario1->add_transition(transition_a0);
+
+	arduino_ml::Transition* transition_a1 = new arduino_ml::Transition(initScenario1);
+	transition_a1->add_condition(new arduino_ml::Condition(buttonScenario1, arduino_ml::LOW_STATE));
+	pressedScenario1->add_transition(transition_a1);
+
+	board.init_pins();
+	board.init(initScenario1);
+}
+void loop(){
+	board.iteration();
+}

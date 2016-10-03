@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="StructureAspectDescriptor.java" startLine="10" startPosition="0" endLine="49" endPosition="0" unitName="NewLanguage.structure.StructureAspectDescriptor" />
+  <root nodeRef="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)/3007735771312339832">
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="13" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myName" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="15" startPosition="27" endLine="16" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="19" startPosition="36" endLine="20" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="23" startPosition="46" endLine="24" endPosition="74" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="24" startPosition="74" endLine="25" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="25" startPosition="58" endLine="26" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="26" startPosition="59" endLine="27" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="30" startPosition="38" endLine="31" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="35" startPosition="24" endLine="36" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="38" startPosition="57" endLine="39" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="41" startPosition="58" endLine="42" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="43" startPosition="5" endLine="44" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="47" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myValue" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="49" startPosition="35" endLine="50" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="50" startPosition="23" endLine="51" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="54" startPosition="25" endLine="55" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="19" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAsString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="30" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getDefault#()LNewLanguage/structure/IO_TYPE;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="34" startPosition="50" endLine="37" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="37" startPosition="5" endLine="40" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="40" startPosition="5" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="54" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()I" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="IO_TYPE#(Ljava/lang/String;I)V" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="23" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConstants#()Ljava/util/List;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="34" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="parseValue#(Ljava/lang/String;)LNewLanguage/structure/IO_TYPE;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="13" startPosition="5" endLine="14" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="15" startPosition="33" endLine="16" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="20" startPosition="5" endLine="21" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="27" startPosition="5" endLine="28" endPosition="91" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="29" startPosition="33" endLine="30" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="34" startPosition="5" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="38" startPosition="49" endLine="39" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="42" startPosition="5" endLine="43" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="10" startPosition="44" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="16" startPosition="42" endLine="19" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="24" startPosition="47" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="30" startPosition="42" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="39" startPosition="49" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="14" startPosition="91" endLine="20" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="28" startPosition="91" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canSetValue#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="15" startPosition="27" endLine="16" endPosition="23" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="19" startPosition="36" endLine="20" endPosition="29" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="30" startPosition="38" endLine="31" endPosition="25" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="35" startPosition="24" endLine="36" endPosition="34" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="38" startPosition="57" endLine="39" endPosition="27" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="41" startPosition="58" endLine="42" endPosition="28" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="54" startPosition="25" endLine="55" endPosition="24" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="49" startPosition="35" endLine="51" endPosition="25" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="15" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="19" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="30" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="54" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="23" startPosition="46" endLine="27" endPosition="16">
+      <varInfo nodeId="3007735771312339832" varName="list" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="49" startPosition="0" endLine="53" endPosition="0">
+      <varInfo nodeId="3007735771312339832" varName="name" />
+      <varInfo nodeId="3007735771312339832" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="23" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="34" startPosition="50" endLine="44" endPosition="32" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="34" startPosition="0" endLine="46" endPosition="0">
+      <varInfo nodeId="3007735771312339832" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" />
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="15" startPosition="33" endLine="19" endPosition="7">
+      <varInfo nodeId="3007735771312339832" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="29" startPosition="33" endLine="33" endPosition="7">
+      <varInfo nodeId="3007735771312339832" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="38" startPosition="49" endLine="43" endPosition="14">
+      <varInfo nodeId="3007735771312339832" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="3007735771312339832" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="10" startPosition="44" endLine="21" endPosition="17">
+      <varInfo nodeId="3007735771312339832" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="24" startPosition="47" endLine="35" endPosition="16">
+      <varInfo nodeId="3007735771312339832" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="3007735771312339832" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="3007735771312339832" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="3007735771312339832" fileName="IO_TYPE.java" startLine="9" startPosition="0" endLine="58" endPosition="0" unitName="NewLanguage.structure.IO_TYPE" />
+    <unitInfo nodeId="3007735771312339832" fileName="IO_TYPE_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="NewLanguage.structure.IO_TYPE_PropertySupport" />
+  </root>
+  <root nodeRef="r:97a90b66-e0bc-4279-9d80-96c3edecfd50(NewLanguage.structure)/3007735771312341912">
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="13" startPosition="0" endLine="14" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myName" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="15" startPosition="27" endLine="16" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="19" startPosition="36" endLine="20" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="23" startPosition="53" endLine="24" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="24" startPosition="88" endLine="25" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="25" startPosition="63" endLine="26" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="26" startPosition="64" endLine="27" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="30" startPosition="45" endLine="31" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="35" startPosition="24" endLine="36" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="38" startPosition="62" endLine="39" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="41" startPosition="63" endLine="42" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="43" startPosition="5" endLine="44" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="47" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="myValue" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="49" startPosition="42" endLine="50" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="50" startPosition="23" endLine="51" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="54" startPosition="25" endLine="55" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="15" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="19" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValueAsString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="30" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getDefault#()LNewLanguage/structure/Actuator_State;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="34" startPosition="57" endLine="37" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="37" startPosition="5" endLine="40" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="40" startPosition="5" endLine="43" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="54" startPosition="0" endLine="57" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getValue#()I" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="49" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Actuator_State#(Ljava/lang/String;I)V" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="23" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="getConstants#()Ljava/util/List;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="34" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="parseValue#(Ljava/lang/String;)LNewLanguage/structure/Actuator_State;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="13" startPosition="5" endLine="14" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="15" startPosition="33" endLine="16" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="20" startPosition="5" endLine="21" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="27" startPosition="5" endLine="28" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="29" startPosition="33" endLine="30" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="34" startPosition="5" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="38" startPosition="49" endLine="39" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="42" startPosition="5" endLine="43" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="10" startPosition="44" endLine="13" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="16" startPosition="49" endLine="19" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="24" startPosition="47" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="30" startPosition="49" endLine="33" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="39" startPosition="63" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="14" startPosition="105" endLine="20" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="28" startPosition="105" endLine="34" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.WhileStatement" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="canSetValue#(Ljava/lang/String;)Z" />
+    <nodeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="15" startPosition="27" endLine="16" endPosition="23" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="19" startPosition="36" endLine="20" endPosition="29" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="30" startPosition="45" endLine="31" endPosition="30" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="35" startPosition="24" endLine="36" endPosition="41" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="38" startPosition="62" endLine="39" endPosition="32" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="41" startPosition="63" endLine="42" endPosition="33" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="54" startPosition="25" endLine="55" endPosition="24" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="49" startPosition="42" endLine="51" endPosition="25" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="15" startPosition="0" endLine="18" endPosition="0" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="19" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="30" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="54" startPosition="0" endLine="57" endPosition="0" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="23" startPosition="53" endLine="27" endPosition="16">
+      <varInfo nodeId="3007735771312341912" varName="list" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="49" startPosition="0" endLine="53" endPosition="0">
+      <varInfo nodeId="3007735771312341912" varName="name" />
+      <varInfo nodeId="3007735771312341912" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="23" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="34" startPosition="57" endLine="44" endPosition="39" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="34" startPosition="0" endLine="46" endPosition="0">
+      <varInfo nodeId="3007735771312341912" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="11" startPosition="24" endLine="12" endPosition="18" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="17" startPosition="45" endLine="18" endPosition="20" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="25" startPosition="24" endLine="26" endPosition="18" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="31" startPosition="45" endLine="32" endPosition="43" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="40" startPosition="27" endLine="41" endPosition="32" />
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="15" startPosition="33" endLine="19" endPosition="7">
+      <varInfo nodeId="3007735771312341912" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="29" startPosition="33" endLine="33" endPosition="7">
+      <varInfo nodeId="3007735771312341912" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="38" startPosition="49" endLine="43" endPosition="14">
+      <varInfo nodeId="3007735771312341912" varName="constant" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="38" startPosition="0" endLine="45" endPosition="0">
+      <varInfo nodeId="3007735771312341912" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="10" startPosition="44" endLine="21" endPosition="17">
+      <varInfo nodeId="3007735771312341912" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="24" startPosition="47" endLine="35" endPosition="16">
+      <varInfo nodeId="3007735771312341912" varName="constants" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="10" startPosition="0" endLine="23" endPosition="0">
+      <varInfo nodeId="3007735771312341912" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="24" startPosition="0" endLine="37" endPosition="0">
+      <varInfo nodeId="3007735771312341912" varName="value" />
+    </scopeInfo>
+    <unitInfo nodeId="3007735771312341912" fileName="Actuator_State.java" startLine="9" startPosition="0" endLine="58" endPosition="0" unitName="NewLanguage.structure.Actuator_State" />
+    <unitInfo nodeId="3007735771312341912" fileName="Actuator_State_PropertySupport.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="NewLanguage.structure.Actuator_State_PropertySupport" />
+  </root>
+</debugInfo>
+
